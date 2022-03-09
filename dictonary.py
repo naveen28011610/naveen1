@@ -1,0 +1,10 @@
+names={}
+print(names)
+d=dict()
+print(d)
+d=dict(bangalore=25)
+print(d)
+d=dict("bangalore"25)
+print(d)
+d["banglore"]=20
+print(d)

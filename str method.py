@@ -1,0 +1,6 @@
+print("************i joined testyantra as a employee%%%%%%%%%%%%%        ".strip("*,%"))
+print("************i joined testyantra as a employee%%%%%%%%%%%%%".strip("*,%"))
+print("************i joined testyantra as a employee%%%%%%%%%%%%%".lstrip("*,%"))
+print("************i joined testyantra as a employee%%%%%%%%%%%%%".rstrip("*,%"))
+print("************i joined testyantra as a employee%%%%%%%%%%%%%".strip("*,%"))
+print("i naveen      1235%%%%".strip("i, "))
