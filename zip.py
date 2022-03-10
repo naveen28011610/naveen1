@@ -13,6 +13,15 @@ print(dict(zip(l1, l2)))'''
 
 
 
+
+
+
+
+
+char=
+
+
+
 '''temperature={"bangalore":(26,32),"chennai":(26,32),"delhi":(31,36)}
 print(list(temperature.items()))
 print(str(temperature.items()))'''
